@@ -1,0 +1,52 @@
+body {
+    background-color: #1A3F58;
+    color: #C2D1CA;
+    font-family: "Space Mono", monospace;
+} 
+
+button {
+    font-family: inherit;
+    font-size: 1em;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #9faca680;
+    border-width: 5px;
+    width: 5%;
+}
+
+
+th {
+    text-align: left;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+h1 {
+    color: #F86F87;
+}
+
+h3 {
+    color: #019F90;
+}
+
+h4 {
+    color: #F86F87;
+}
+
+a:link {
+    color: #D6CC84;  
+}
+
+a:visited {
+    color: #D6CC84;  
+}
+
+a:active {
+    color: #F86F87;  
+}
